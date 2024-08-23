@@ -1,0 +1,21 @@
+.table{
+    height: 700px;
+    width: 700px;
+    border-color: black;
+    border-width: 10px;
+
+}
+table,th,td{
+    border: 2px solid;
+    border-collapse:collapse ;
+    background-color: gold;
+}
+.box{
+    background-color: palegreen;
+    height: 400px;
+    width: 400px;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: blue;
+
+}

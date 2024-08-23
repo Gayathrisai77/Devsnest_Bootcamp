@@ -1,0 +1,20 @@
+.split {
+    height: 8000px;
+    width: 1000px;
+    position: fixed;
+}
+.left{
+    left: 1;
+    background-color: rgb(167, 162, 162);
+}
+
+.right{
+    right: 0;
+    background-color:rgb(235, 235, 12);
+}
+.centerd img{
+    width:10px;
+    height: 20px;
+}
+
+  

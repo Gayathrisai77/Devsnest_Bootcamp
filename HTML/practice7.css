@@ -1,0 +1,15 @@
+.table{
+    height: 400px;
+    width: 400px;
+    margin-top: 4px;
+
+}
+table,th,td{
+    border: 2px solid;
+    border-color:rgb(138, 133, 133);
+    
+    
+    border-style: double;
+    
+
+}

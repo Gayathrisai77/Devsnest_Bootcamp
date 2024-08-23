@@ -1,0 +1,42 @@
+.split{
+    height:1000px;
+    width:50%;
+    position:fixed;
+}
+.left{
+    background-color:rgb(9, 176, 9);
+    left: 0;
+}
+.right{
+    background-color:;
+    right: 0;
+}
+.centerd h2{
+    text-align: center;
+    text-decoration-color: aliceblue;
+    font-size: x-large;
+    color: aliceblue;
+}
+.centerd{
+    padding:100px;
+    padding-top: 200px;
+}
+.centerd p{
+    font-size: x-large;
+    color: aliceblue;
+}
+.centered img{
+    margin-left: 40%;
+    margin-top: 17%;
+   
+    border-radius: 60%;;
+    height:250px;
+    width: 250px;
+}
+.centered p{
+    font-size: x-large;
+
+}
+.centered{
+    padding:100px;
+}

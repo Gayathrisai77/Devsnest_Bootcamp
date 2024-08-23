@@ -1,0 +1,26 @@
+
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    height: 50px;
+    width:10px;
+    border-color: rgb(51, 53, 56);
+
+   
+}
+td{
+    text-align: center;
+    padding: 5px;
+    
+}
+.personal{
+    background-color:lightgray;
+    border: 3px solid rgb(49, 47, 47);
+}
+.colgroup{
+    background-color: yellow;
+}
+caption{
+    caption-side: bottom;
+    padding: 20px;
+}

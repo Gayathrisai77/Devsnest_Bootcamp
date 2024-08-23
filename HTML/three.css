@@ -1,0 +1,47 @@
+.table{
+    height: 600px;
+    width: 900px;
+    border-width: 90x;
+    border-color: white;
+    
+}
+table,th,td{
+    border: 2px solid;
+    border-color: white;
+    
+}
+th,td{
+    width: 10000px;
+    height:100px;
+    padding: 50px;
+    font-size: 30px;
+}
+.gaye{
+    background-color: bisque;
+}
+.sai{
+    background-color: aqua;
+
+}
+.mani{
+    background-color:bisque;
+    
+}
+.bhagi{
+    background-color: aqua;
+
+}
+.gani{
+    background-color:bisque;
+    
+}
+.swathi{
+    background-color: aqua;
+
+}
+.malli{
+    background-color: blueviolet;
+}
+.row1{
+    background-color: blueviolet;
+}

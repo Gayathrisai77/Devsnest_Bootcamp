@@ -1,0 +1,18 @@
+.gaye{
+    border-radius: 200px;
+    height:200px;
+    width:200px;
+    border:7px solid;
+    align-self: center;
+    padding: 40px;
+}
+    
+.img{
+    border-radius: 500px;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+.h2{
+    color: red;
+}
